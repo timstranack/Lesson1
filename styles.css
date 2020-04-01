@@ -14,4 +14,16 @@ h1{
 .tim{
     text-align:right;
     padding-right:48px;
-    }
+}
+
+/*Cards*/
+.card{
+    box-shadow: 0 4px 8px 0 black;
+    transition: 0.3s;
+    width: 100%;
+}
+
+/* Add some padding inside the card container */
+.container {
+    padding: 2px 2px;
+}
