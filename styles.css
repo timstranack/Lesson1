@@ -1,0 +1,17 @@
+/* This is a comment on my Style Sheet */
+/*Title Styles*/
+h1{
+    font-size:72px;
+    color:blue;
+}
+
+.centre{
+    text-align:center;
+}
+
+/*Body Styles*/
+
+.tim{
+    text-align:right;
+    padding-right:48px;
+    }
