@@ -27,3 +27,74 @@ h1{
 .container {
     padding: 2px 2px;
 }
+
+/* Style for list item 1 */
+#listItem1{
+    color:red;
+    float: left;
+}
+
+/* Style for list item 2 */
+#listItem2{
+    color:blue;
+    float: left;
+}
+
+/* Style for list item 3 */
+#listItem3{
+    color:green;
+    float: left;
+}
+
+/* Style for list item 4 */
+#listItem4{
+    color:rgb(206, 140, 17);
+    float: left;
+}
+
+
+/* Style for link item 1 */
+#link1{
+    color:red;
+    display:block;
+    text-align:center;
+    padding:16px;
+    text-decoration:none;
+}
+
+/* Style for list item 2 */
+#link2{
+    color:blue;
+    display:block;
+    text-align:center;
+    padding:16px;
+    text-decoration:none;
+}
+
+/* Style for list item 3 */
+#link3{
+    color:green;
+    display:block;
+    text-align:center;
+    padding:16px;
+    text-decoration:none;
+}
+
+/* Style for list item 4 */
+#link4{
+    color:rgb(206, 140, 17);
+    display:block;
+    text-align:center;
+    padding:16px;
+    text-decoration:none;
+}
+
+
+/* Navigation Bar */
+#navBar{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: black;
+}
